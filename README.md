@@ -1,4 +1,4 @@
-# Machine Learning - BEVEST
+# Repository Machine Learning Bevest Apps
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=500&size=30&lines=B+E+V+E+S+T;Be+Investor,+Grow+Together+!;&center=true&color=1E90FF&width=500&height=45"></a>
