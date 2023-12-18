@@ -14,3 +14,19 @@
 
 - **Investor Profiling**
    <p>Bevest created a model that serves to categorize several types of investors very quickly. There are three groups of investors in this application namely "Pragmatic", "Progressive", "Pioneering". Investor users only need to fill in their personal data when registering in the Bevest application. The results of this investor type grouping will later be used to recommend the best investment products that can be purchased by investors in Bevest.</p>  
+
+
+## Performance Model Machine Learning
+- **Business Screening**
+   <p>Accuracy : 98%</p>
+   <p>Precision : 98%</p>
+   <p>Recall : 98%</p>
+   <p>F1-Score : 98%</p>
+- **Investor Profiling**
+   <p>Accuracy : 100%</p>
+   <p>Precision : 100%</p>
+   <p>Recall : 100%</p>
+   <p>F1-Score : 100%</p>
+- **Business Value Estimator**
+   <p>R2-Score : 99,98%</p>
+   <p>MAPE : 4,62%</p>
