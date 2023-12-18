@@ -22,11 +22,19 @@
    <p>Precision : 98%</p>
    <p>Recall : 98%</p>
    <p>F1-Score : 98%</p>
+   
+   Testing Business Screening Documentation [here](https://ibb.co/PmXKPQV)
+  
 - **Investor Profiling**
    <p>Accuracy : 100%</p>
    <p>Precision : 100%</p>
    <p>Recall : 100%</p>
    <p>F1-Score : 100%</p>
+
+   Testing Investor Profiling Documentation [here](https://ibb.co/4jFP0TH)
+  
 - **Business Value Estimator**
    <p>R2-Score : 99,98%</p>
    <p>MAPE : 4,62%</p>
+   
+   Testing Business Value Estimator Documentation [here](https://ibb.co/PmXKPQV)
