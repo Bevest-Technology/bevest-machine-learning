@@ -17,7 +17,7 @@
 
 
 ## Performance Model Machine Learning
-**Business Screening**
+-  **Business Screening**
 |    Metrics    | Result |
 | ------------- | ------ |
 | Accuracy      | 98%    |
@@ -26,7 +26,7 @@
 | F1-Score      | 98%    |
   <p align="left">Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)</p>
 
-**Investor Profiling**
+-  **Investor Profiling**
 |    Metrics    | Result |
 | ------------- | ------ |
 | Accuracy      | 100%   |
@@ -36,7 +36,7 @@
 | ------------- | ------ |
   <p align="left">Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)</p>
   
-**Business Value Estimator**
+-  **Business Value Estimator**
 |    Metrics    | Result |
 | ------------- | ------ |
 | R2-Score      | 99,98% |
