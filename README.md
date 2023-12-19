@@ -18,23 +18,26 @@
 
 ## Performance Model Machine Learning
 - **Business Screening**
-   <p>Accuracy : 98%</p>
-   <p>Precision : 98%</p>
-   <p>Recall : 98%</p>
-   <p>F1-Score : 98%</p>
-   
-   Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)
+|    Metrics    | Result |
+| ------------- | ------ |
+| Accuracy      | 98%    |
+| Precision     | 98%    |
+| Recall        | 98%    |
+| F1-Score      | 98%    |
+  Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)
 
 - **Investor Profiling**
-   <p>Accuracy : 100%</p>
-   <p>Precision : 100%</p>
-   <p>Recall : 100%</p>
-   <p>F1-Score : 100%</p>
-
-   Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)
+|    Metrics    | Result |
+| ------------- | ------ |
+| Accuracy      | 100%   |
+| Precision     | 100%   |
+| Recall        | 100%   |
+| F1-Score      | 100%   |
+  Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)
   
 - **Business Value Estimator**
-   <p>R2-Score : 99,98%</p>
-   <p>MAPE : 4,62%</p>
-   
-   Testing Business Value Estimator Documentation [here](https://i.ibb.co/mDZk28P/business-value-estimator-testing.jpg)
+|    Metrics    | Result |
+| ------------- | ------ |
+| R2-Score      | 99,98% |
+| MAPE          | 4,62%  |
+  Testing Business Value Estimator Documentation [here](https://i.ibb.co/mDZk28P/business-value-estimator-testing.jpg)
