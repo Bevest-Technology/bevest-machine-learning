@@ -26,7 +26,8 @@ Business Value Estimator ML Architecture:
 | Precision     | 98%    |
 | Recall        | 98%    |
 | F1-Score      | 98%    |
-  <p align="left">Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)</p>
+
+Testing Business Screening Documentation [Click Here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)
 
 **Investor Profiling**
 |    Metrics    | Result |
@@ -35,11 +36,13 @@ Business Value Estimator ML Architecture:
 | Precision     | 100%   |
 | Recall        | 100%   |
 | F1-Score      | 100%   |
-  <p align="left">Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)</p>
+
+Testing Investor Profiling Documentation [Click Here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)
   
 **Business Value Estimator**
 |    Metrics    | Result |
 | ------------- | ------ |
 | R2-Score      | 99,98% |
 | MAPE          | 4,62%  |
-  <p align="left">Testing Business Value Estimator Documentation [here](https://i.ibb.co/mDZk28P/business-value-estimator-testing.jpg)</p>
+
+Testing Business Value Estimator Documentation [Click Here](https://i.ibb.co/mDZk28P/business-value-estimator-testing.jpg)
