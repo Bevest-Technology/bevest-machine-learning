@@ -18,15 +18,18 @@
 
 ## Performance Model Machine Learning
 -  **Business Screening**
+<p>
 |    Metrics    | Result |
 | ------------- | ------ |
 | Accuracy      | 98%    |
 | Precision     | 98%    |
 | Recall        | 98%    |
 | F1-Score      | 98%    |
+</p>
   <p align="left">Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)</p>
 
 -  **Investor Profiling**
+<p>
 |    Metrics    | Result |
 | ------------- | ------ |
 | Accuracy      | 100%   |
@@ -34,11 +37,14 @@
 | Recall        | 100%   |
 | F1-Score      | 100%   |
 | ------------- | ------ |
+</p>
   <p align="left">Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)</p>
   
 -  **Business Value Estimator**
+<p>
 |    Metrics    | Result |
 | ------------- | ------ |
 | R2-Score      | 99,98% |
 | MAPE          | 4,62%  |
+</p>
   <p align="left">Testing Business Value Estimator Documentation [here](https://i.ibb.co/mDZk28P/business-value-estimator-testing.jpg)</p>
