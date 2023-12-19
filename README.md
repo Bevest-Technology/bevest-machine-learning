@@ -24,6 +24,7 @@
 | Precision     | 98%    |
 | Recall        | 98%    |
 | F1-Score      | 98%    |
+| ------------- | ------ |
   Testing Business Screening Documentation [here](https://i.ibb.co/8M165dh/business-screening-testing.jpg)
 
 - **Investor Profiling**
@@ -33,6 +34,7 @@
 | Precision     | 100%   |
 | Recall        | 100%   |
 | F1-Score      | 100%   |
+| ------------- | ------ |
   Testing Investor Profiling Documentation [here](https://i.ibb.co/jL8gjMS/investor-profiling-testing.jpg)
   
 - **Business Value Estimator**
