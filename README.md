@@ -6,17 +6,14 @@
 <hr/>
 
 ## About Our Machine Learning Model :
-### Business Screening
+**Business Screening**
 <p>Bevest wants to create a fast automation process in assessing if SMEs are worthy or not worthy of funding by creating a classification model. The results are based on assessments and surveys that have been conducted by Bank Indonesia for. The labels obtained by the business user after filling in the company data and when the model is run are " Eligible" and "Ineligible".</p>
-Business Screening ML Architecture:
 
 **Investor Profiling**
 <p>Bevest created a model that serves to categorize several types of investors very quickly. There are three groups of investors in this application namely "Pragmatic", "Progressive", "Pioneering". Investor users only need to fill in their personal data when registering in the Bevest application. The results of this investor type grouping will later be used to recommend the best investment products that can be purchased by investors in Bevest.</p>
-Investor Profiling ML Architecture:
 
 **Business Value Estimator**
 <p>Bevest created a model that makes it easy for businesses or SMEs to know the amount of revenue they will get when they register on our app. By filling in the business data the model quickly estimates the amount of funding. The model is built with Deep Neural Network (DNN) architecture.</p>
-Business Value Estimator ML Architecture:
 
 ## Model Machine Learning Architecture
 <p align="center"> <img src="https://i.ibb.co/qYYYcb2/Feature-1-ML-Architecture.png" width="600px"></p> 
