@@ -16,8 +16,9 @@
 <p>Bevest created a model that makes it easy for businesses or SMEs to know the amount of revenue they will get when they register on our app. By filling in the business data the model quickly estimates the amount of funding. The model is built with Deep Neural Network (DNN) architecture.</p>
 
 ## Model Machine Learning Architecture
-<p align="center"> <img src="https://i.ibb.co/qYYYcb2/Feature-1-ML-Architecture.png" width="600px"></p> 
-<p align="center"><img src="https://i.ibb.co/TqQYnT8/Feature-2-ML-Architecture.png" width="400px">    ---     <img src="https://i.ibb.co/dg0gbXT/Feature-3-ML-Architecture.png" width="400px"></p> 
+<p align="left"> <img src="https://i.ibb.co/qYYYcb2/Feature-1-ML-Architecture.png" width="600px"></p> 
+<p align="left"><img src="https://i.ibb.co/TqQYnT8/Feature-2-ML-Architecture.png" width="600px"></p> 
+<p align="left"><img src="https://i.ibb.co/dg0gbXT/Feature-3-ML-Architecture.png" width="600px"></p> 
 
 ## Performance Result Model Machine Learning
 **Business Screening**
