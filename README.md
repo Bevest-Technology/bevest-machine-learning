@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-## About Our Machine Learning Model :
+## About Our Machine Learning Model 
 **Business Screening**
 <p>Bevest wants to create a fast automation process in assessing if SMEs are worthy or not worthy of funding by creating a classification model. The results are based on assessments and surveys that have been conducted by Bank Indonesia for. The labels obtained by the business user after filling in the company data and when the model is run are " Eligible" and "Ineligible".</p>
 
